@@ -1,0 +1,15 @@
+{ This is an automatically generated lazarus resource file }
+
+LazarusResources.Add('TForm1','FORMDATA',[
+  'TPF0'#6'TForm1'#5'Form1'#4'Left'#3#137#3#6'Height'#3#150#3#3'Top'#2'*'#5'Wid'
+  +'th'#3'>'#5#7'Caption'#6#5'Form1'#12'ClientHeight'#3#150#3#11'ClientWidth'#3
+  +'>'#5#13'DesignTimePPI'#3#144#0#8'OnCreate'#7#10'FormCreate'#10'LCLVersion'#6
+  +#8'2.0.12.0'#0#7'TButton'#7'Button1'#4'Left'#2')'#6'Height'#2#18#3'Top'#3#200
+  +#2#5'Width'#3#136#0#7'Caption'#6#18#208#151#208#176#208#191#209#131#209#129
+  +#209#130#208#184#209#130#209#140#7'OnClick'#7#12'Button1Click'#10'ParentFont'
+  +#8#8'TabOrder'#2#0#0#0#7'TButton'#7'Button4'#4'Left'#3'h'#3#6'Height'#2#19#3
+  +'Top'#3#192#1#5'Width'#2'*'#7'Caption'#6#12#208#146#208#191#209#128#208#176
+  +#208#178#208#190#7'OnClick'#7#12'Button4Click'#10'ParentFont'#8#8'TabOrder'#2
+  +#1#0#0#6'TTimer'#6'Timer1'#7'Enabled'#8#8'Interval'#2#10#4'Left'#2'2'#3'Top'
+  +#3#0#3#0#0#0
+]);
